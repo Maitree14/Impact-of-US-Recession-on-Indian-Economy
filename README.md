@@ -2,5 +2,5 @@ This project aims to analyze the impact of US negative economic growth rate on t
 
 Conducted time series forecasting on US GDP data (1960-2022) to predict potential recession trends for the next 5 years. Evaluated the impact of the potential US recession on the Indian economy.
 
-The Link to the Presentation is provided belo:
+The Link to the Presentation is provided below:
 https://www.canva.com/design/DAF-5vjvhbY/vVXuBcpRF5fzgA8hoBHVSw/view?utm_content=DAF-5vjvhbY&utm_campaign=designshare&utm_medium=link&utm_source=editor
